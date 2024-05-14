@@ -1,0 +1,106 @@
+
+
+.container{
+    width: 100%;
+    background-color: #7DA0CA;
+    color: white;
+    font-size: 1.5rem;
+    height: 100vh;
+    
+}
+
+.sContainer{
+    
+    height: 90vh;   
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+form,.form,.form-cancel {
+    width: 50%;
+    background-color: #2768b7b0;
+    color: rgba(0, 0, 0, 0.71);
+    font-size: 1.0rem;
+    padding: 20px; /* Agrega un poco de espacio alrededor del formulario */
+    border-radius: 10px; /* Agrega bordes redondeados al formulario */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Agrega sombra al formulario */
+}
+
+.form-cancel{
+width: 40%;
+}
+
+
+label{
+    color: rgba(0, 0, 0, 0.71);
+}
+
+.tittle{
+    text-align: center;
+    margin: 0;
+   
+}
+.tittle h1{
+    color: rgba(1, 1, 32, 0.758);
+    box-shadow: 
+    0 0 10px rgba(0, 0, 0, 0.1), 
+    0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+input::placeholder {
+    font-size: 12px; /* Tamaño deseado del texto del placeholder */
+    text-align: center;
+}
+
+.help{
+    color: black;
+    font-size: 70%;
+}
+
+.finAll{
+    column-span: 2px; 
+}
+
+.form-list{
+    width: 100%;
+    text-align: center;
+}
+
+.form-search{
+    width: 100%;
+}
+
+.input{
+    display: inline-flex;
+}
+
+button, img{
+    border: none;
+}
+
+button img{
+    width: 30px;
+    border: none;
+}
+
+/* Estilo para ocultar las flechas en input type number */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Ajuste adicional para Firefox */
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+
+
+.button{
+    margin-top: 10px ;
+    background-color: #71777cb0; ;
+}

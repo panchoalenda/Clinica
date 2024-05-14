@@ -1,0 +1,33 @@
+.h1, h1 {
+    font-size: calc(1.375rem + 1.5vw);
+}
+
+.hero .h1, .hero h1 {
+    margin-bottom: 1rem;
+    text-shadow: 1px 1px 5px rgba(70,54,18,.9);
+}
+
+/*Section*/
+.container{
+margin: 0%;
+max-height: 20%;
+text-align: center;
+}
+
+.mascara {
+    background-image: linear-gradient(to left, rgb(133, 160, 200,0.1)30%, rgb(117, 148, 192)100%);
+    /* height: 10%; */
+}
+
+.logo{
+    display: contents;
+}
+
+.container img{
+    width: 50%;
+    align-items: end;
+}
+
+
+
+
