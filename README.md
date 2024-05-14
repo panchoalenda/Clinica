@@ -93,6 +93,10 @@ Puedes cambiar las variables a tu gusto! para futuras pruebas
       - GitHub: [Francotorrico](https://github.com/Francotorrico)
       - LinkedIn: [Franco Torrico](https://www.linkedin.com/in/franco-torrico-806b1818a/)
       - Explorador de nuevas tecnologías y herramientas, implementador de estructuras backend y corrector de datos de informacion responsivas, me gusta hacer funcionalidades backend.
+   
+   - **Francisco Alenda - FranDev**
+      - GitHub: [panchoalenda](https://github.com/panchoalenda)
+      - LinkedIn: [Francisco Alenda](https://www.linkedin.com/in/franciscoalenda/)
 
   - **QA:**
     - **Cinthia Gutierrez Vargas** 
